@@ -1,5 +1,5 @@
 # monty interpreter
-![alt text](https://github.com/Ola-Domain/monty/tree/master/images?raw=true)
+![alt text](https://github.com/Ola-Domain/monty/blob/main/master/images/monty.png?raw=true)
 
 
 ## The Monty language
